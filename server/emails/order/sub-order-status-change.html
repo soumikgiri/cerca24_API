@@ -1,0 +1,37 @@
+{% extends '../layouts/default.html' %}
+
+{% block content %}
+<p>Hello {{user.name}},</p>
+
+<p>Your sub order <a href="{{orderLink}}">#{{subOrder.trackingCode}}</a> has change status to:
+    {% if subOrder.status !== 'progressing' %} <strong>{{subOrder.status}}</strong> {% endif %}
+    {% if subOrder.status === 'progressing' %} <strong>Ready To Pick Up</strong> {% endif %}
+</p>
+
+<p>
+  <img src="{{qrLinkUser}}" style="display: block; margin: 0 auto" width="120px"/>
+</p>
+
+<table class="table">
+  <tr>
+    <td><strong>Product</strong></td>
+    <td>{{subOrder.productDetails.name}}</td>
+  </tr>
+  <tr>
+    <td><strong>Quantity</strong></td>
+    <td>{{subOrder.quantity|number}}</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>{{subOrder.userCurrency}} {{subOrder.userTotalPrice|money}}</td>
+  </tr>
+  <tr>
+    <td>Status</td>
+    <td>
+      {% if subOrder.status !== 'progressing' %} <strong>{{subOrder.status}}</strong> {% endif %}
+      {% if subOrder.status === 'progressing' %} <strong>Ready To Pick Up</strong> {% endif %}
+    </td>
+  </tr>
+</table>
+
+{% endblock %}

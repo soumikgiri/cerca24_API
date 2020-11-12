@@ -1,0 +1,74 @@
+{% extends '../layouts/default.html' %}
+
+{% block content %}
+<p>Hello {{orderDetail.deliveryCompanyInfo.name}}</p>
+<p>Your new order <a href="{{orderLink}}"></a><strong>#{{orderDetail.trackingCode}}</strong></a></p>
+
+<table class="table">
+  <tr>
+    <td><strong>Product</strong></td>
+    <td>{{orderDetail.productDetails.name}}</td>
+  </tr>
+  <tr>
+    <td><strong>Quantity</strong></td>
+    <td>{{orderDetail.quantity|number}}</td>
+  </tr>
+  <tr>
+    <td><strong>Total</strong></td>
+    <td>{{orderDetail.currency}} {{orderDetail.totalPrice|money}}</td>
+  </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>{{orderDetail.status}}</td>
+  </tr>
+  <tr>
+    <td><strong>Note</strong></td>
+    <td>{{orderDetail.userNote}}</td>
+  </tr>
+  <tr>
+    <td><strong>Shop</strong></td>
+    <td>{{orderDetail.shop.name}}</td>
+  </tr>
+  <tr>
+    <td><strong>Shop address</strong></td>
+    <td>{{orderDetail.shop.address}}, {{orderDetail.shop.city}}, {{orderDetail.shop.state}}</td>
+  </tr>
+  <tr>
+    <td><strong>Pick Up Address</strong></td>
+    <td>{{orderDetail.pickUpAddress}}</td>
+  </tr>
+  <tr>
+    <td><strong>Pick Up By</strong></td>
+    <td>
+      {{orderDetail.userPickUpInfo.pickUpBy}}<br>
+      {% if orderDetail.userPickUpInfo.pickUpBy == 'others' %}
+      {% if orderDetail.userPickUpInfo.pickUpBy == 'others' && orderDetail.userPickUpInfo.name %}
+      Name: {{orderDetail.userPickUpInfo.name}}<br>
+      {% endif %}
+      {% if orderDetail.userPickUpInfo.pickUpBy == 'others' && orderDetail.userPickUpInfo.idNumber %}
+      ID: {{orderDetail.userPickUpInfo.idNumber}}<br>
+      {% endif %}
+      {% if orderDetail.userPickUpInfo.pickUpBy == 'others' && orderDetail.userPickUpInfo.phoneNumber %}
+      Phone: {{orderDetail.userPickUpInfo.phoneNumber}}
+      {% endif %}
+    {% endif %}
+    </td>
+  </tr>
+  <h4 style="margin-top: 20px"><strong>Customer information</strong></h4>
+  <tr>
+    <td>
+      <p><strong>First name: </strong> {{orderDetail.firstName}}</p>
+      <p><strong>Last name: </strong> {{orderDetail.lastName}}</p>
+      <p><strong>Email: </strong> {{orderDetail.email}}</p>
+      <p><strong>Phone number: </strong> {{orderDetail.phoneNumber}}</p>
+      <p><strong>Street address: </strong> {{orderDetail.streetAddress}}</p>
+      <p><strong>Area: </strong> {{orderDetail.state}}</p>
+      <p><strong>City: </strong> {{orderDetail.city}}</p>
+      <p><strong>Country: </strong> {{orderDetail.country}}</p>
+      <p><strong>Google Pin: </strong> {{orderDetail.zipCode}}</p>
+      <!-- <p><strong>Shipping address: </strong> {{orderDetail.shippingAddress}}</p> -->
+    </td>
+  </tr>
+</table>
+
+{% endblock %}

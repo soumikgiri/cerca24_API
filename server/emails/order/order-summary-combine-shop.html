@@ -1,0 +1,68 @@
+{% extends '../layouts/default.html' %}
+
+{% block content %}
+<p>Hello <strong>{{shopName}}</strong></p>
+<p>Order ID: <strong>{{trackingCode}}</strong></p>
+
+<div class="text-left">
+  <h3><strong>Customer information</strong></h3>
+  <p><strong>Customer name: </strong> {{customer.name}}</p>
+  <p><strong>Email: </strong> {{customer.email}}</p>
+  <p><strong>Phone number: </strong> {{customer.phoneNumber}}</p>
+  <p><strong>Street address: </strong> {{customer.address}}</p>
+  <p><strong>Area: </strong> {{customer.area}}</p>
+  <p><strong>City: </strong> {{customer.city}}</p>
+  <p><strong>Country: </strong> Zambia</p>
+</div>
+
+<div style="margin-top: 40px">
+  <table class="table table-custom" style="border: 1px solid #ccc; border-radius: 5px; text-align: center;">
+    <thead>
+      <tr class="bg-blue"
+        style="background: #3f9bfb; color: #fff; font-size: 15px; white-space: nowrap; font-weight: 600;">
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Sub order ID</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Product</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Quantity</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Total</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Status</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Note</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Delivery Company</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Pick Up Address</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Pick Up By</td>
+      </tr>
+    </thead>
+    <tbody>
+      {% for orderDetail in orderDetails %}
+      <tr>
+        <td class="text-left">#{{orderDetail.trackingCode}}</td>
+        <td style="text-align: left">{{orderDetail.productDetails.name}}</td>
+        <td>{{orderDetail.quantity|number}}</td>
+        <td>{{orderDetail.currency}} {{orderDetail.totalPrice|money}}</td>
+        <td>{{orderDetail.status}}</td>
+        <td style="text-align: left">{{orderDetail.userNote}}</td>
+        <td tyle="text-align: left">
+          {% if orderDetail.deliveryCompanyId && orderDetail.deliveryCompanyInfo %}
+          {{orderDetail.deliveryCompanyInfo.name}}
+          {% endif %}
+        </td>
+        <td style="text-align: left">{{orderDetail.pickUpAddress}}</td>
+        <td style="text-align: left">
+          <strong>{{orderDetail.userPickUpInfo.pickUpBy}}</strong><br>
+          {% if orderDetail.userPickUpInfo.pickUpBy == 'others' %}
+          {% if orderDetail.userPickUpInfo.pickUpBy == 'others' && orderDetail.userPickUpInfo.name %}
+          Name: {{orderDetail.userPickUpInfo.name}}<br>
+          {% endif %}
+          {% if orderDetail.userPickUpInfo.pickUpBy == 'others' && orderDetail.userPickUpInfo.idNumber %}
+          ID: {{orderDetail.userPickUpInfo.idNumber}}<br>
+          {% endif %}
+          {% if orderDetail.userPickUpInfo.pickUpBy == 'others' && orderDetail.userPickUpInfo.phoneNumber %}
+          Phone: {{orderDetail.userPickUpInfo.phoneNumber}}
+          {% endif %}
+          {% endif %}
+        </td>
+      <tr>
+        {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

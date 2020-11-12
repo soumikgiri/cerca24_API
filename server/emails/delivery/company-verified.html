@@ -1,0 +1,13 @@
+{% extends '../layouts/default.html' %}
+
+{% block content %}
+<p>Hello {{ company.name }}</p>
+
+<p>
+  Thank you for signing up. Your {{company.type}} account has been verified. <br />
+  Please click <a href="{{ loginUrl }}">here</a> to login or copy the link below and paste it into your browser.
+
+  <br/>
+  {{ loginUrl }}
+</p>
+{% endblock %}

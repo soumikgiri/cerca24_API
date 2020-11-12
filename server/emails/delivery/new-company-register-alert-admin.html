@@ -1,0 +1,22 @@
+{% extends '../layouts/default.html' %}
+
+{% block content %}
+<p>Hello,</p>
+
+<p>
+  New {{company.type}} company has registered as seller system. Please go to <a href="{{companyUpdateUrl}}">admin page and verify</a>.
+</p>
+
+<p>
+  <h3>Company info</h3>
+  <strong>Name: </strong> <a href="{{companyUpdateUrl}}">{{company.name}}</a> <br />
+  <strong>Email: </strong> {{company.email}} <br />
+  <strong>Phone number: </strong> {{company.phoneNumber}} <br />
+  <strong>Address: </strong> {{company.address}} <br />
+  <strong>City: </strong> {{company.city}} <br />
+  <strong>State: </strong> {{company.state}} <br />
+  <strong>Zipcode: </strong> {{company.zipcode}} <br />
+  <strong>Country: </strong> {{company.country}} <br />
+</p>
+
+{% endblock %}

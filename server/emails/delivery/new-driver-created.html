@@ -1,0 +1,14 @@
+{% extends '../layouts/default.html' %}
+
+{% block content %}
+<p>Hello {{ driver.firstName }}</p>
+
+<p>
+  Thank you. Your account has been created. Now you can login to the app <br />
+  Please check information below <br />
+
+  <strong>Your account: </strong> {{driver.email}} <br/>
+  <strong>Your password: </strong> {{password}} <br/>
+</p>
+<p>Please change your password after logged in!</p>
+{% endblock %}

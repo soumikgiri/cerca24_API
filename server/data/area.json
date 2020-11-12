@@ -1,0 +1,2030 @@
+[
+  {
+    "SN": 1,
+    "Cities": "Chadiza",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 2,
+    "Cities": "Chama",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 3,
+    "Cities": "Chavuma",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 4,
+    "Cities": "Chembe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 5,
+    "Cities": "Chibombo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 6,
+    "Cities": "Chiengi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 7,
+    "Cities": "Chikankata",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 8,
+    "Cities": "Chilanga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 9,
+    "Cities": "Chililabombwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Chililabombwe",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Kasumbalesa"
+  },
+  {
+    "SN": 10,
+    "Cities": "Chilinda",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 11,
+    "Cities": "Chilubi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 12,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 13,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Chabanyama"
+  },
+  {
+    "SN": 14,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Chawama"
+  },
+  {
+    "SN": 15,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Chibwe"
+  },
+  {
+    "SN": 16,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chikola A"
+  },
+  {
+    "SN": 17,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chikola B"
+  },
+  {
+    "SN": 18,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chingola East"
+  },
+  {
+    "SN": 19,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chiwempala"
+  },
+  {
+    "SN": 20,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kabundi  "
+  },
+  {
+    "SN": 21,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kabundi East"
+  },
+  {
+    "SN": 22,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kabundi North"
+  },
+  {
+    "SN": 23,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kabuta"
+  },
+  {
+    "SN": 24,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kapisha"
+  },
+  {
+    "SN": 25,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Kasompe"
+  },
+  {
+    "SN": 26,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Lulamba"
+  },
+  {
+    "SN": 27,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Maiteneke"
+  },
+  {
+    "SN": 28,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Mimbula"
+  },
+  {
+    "SN": 29,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "North ",
+    "AREAS": "Nchanga North"
+  },
+  {
+    "SN": 30,
+    "Cities": "Chingola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Twatasha"
+  },
+  {
+    "SN": 31,
+    "Cities": "Chinsali",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 32,
+    "Cities": "Chipata",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Chipata",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Mwami Border"
+  },
+  {
+    "SN": 33,
+    "Cities": "Chipili",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 34,
+    "Cities": "Chirundu",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 35,
+    "Cities": "Chisamba",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 36,
+    "Cities": "Chitambo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 37,
+    "Cities": "Choma",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 38,
+    "Cities": "Chongwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 39,
+    "Cities": "Gwembe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 40,
+    "Cities": "Ikelenge",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 41,
+    "Cities": "Isoka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 42,
+    "Cities": "Itezhi-Tezhi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 43,
+    "Cities": "Kabompo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 44,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Chikusu"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Chowa"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Highridge"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Katondo"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Luangwa"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Pollen"
+  },
+  {
+    "SN": null,
+    "Cities": "Kabwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Railway"
+  },
+  {
+    "SN": 45,
+    "Cities": "Kafue",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 46,
+    "Cities": "Kalabo",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Kafue Estates"
+  },
+  {
+    "SN": 47,
+    "Cities": "Kalomo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 48,
+    "Cities": "Kalulushi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Kalulushi",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Chambishi"
+  },
+  {
+    "SN": null,
+    "Cities": "Kalulushi",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chibuluma"
+  },
+  {
+    "SN": null,
+    "Cities": "Kalulushi",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Depot"
+  },
+  {
+    "SN": null,
+    "Cities": "Kalulushi",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "NAPSA Complex"
+  },
+  {
+    "SN": 49,
+    "Cities": "Kalumbila",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 50,
+    "Cities": "Kanchibiya",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 51,
+    "Cities": "Kaoma",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Kaoma",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Mankoya"
+  },
+  {
+    "SN": 52,
+    "Cities": "Kapiri Mposhi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 53,
+    "Cities": "Kaputa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 54,
+    "Cities": "Kasama",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Kasama",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chaiwila"
+  },
+  {
+    "SN": 55,
+    "Cities": "Kasempa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 56,
+    "Cities": "Katete",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 57,
+    "Cities": "Kawambwa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Kawambwa",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Munkanta"
+  },
+  {
+    "SN": 58,
+    "Cities": "Kazungula",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 59,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Buchi"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Bulangililo"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Buyantanshi"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "CBU"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Chachacha"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chamboli"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Chimwemwe"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chipata"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "CPC Village"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Garnetone"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Ipusukilo"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kabala"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kamitondo"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kamfinsa"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kawama/Kamatipa"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Kitwe West"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Kwacha"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Luangwa"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Malembeka"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Mindolo"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Mindolo North"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Miseshi"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Mulenga"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Musondo"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Natwange"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ndeke    "
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ndeke Village"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Nkana East"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Nkana West"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Nkandabwe"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Parkands"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Riverside"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Race Course"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Twatasha"
+  },
+  {
+    "SN": null,
+    "Cities": "Kitwe",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Wusakile"
+  },
+  {
+    "SN": 60,
+    "Cities": "Lavushimanda",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 62,
+    "Cities": "Limulunga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Airport"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Burton "
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Burton Extension"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chibelenga"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Dambwa"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Dambwa Central"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Dambwa Site & Service"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Dambwa South"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Elaine Brittel"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Falls View"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North ",
+    "AREAS": "Highlands"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Hillcrest"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Kashitu"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Kashitu Extension"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Libuyu"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Linda"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Malota"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Maramba"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Muhdolobela"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Mwandi"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Nakatindi"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ngwenya"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Nott Brodie"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Railways"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Victoria Falls"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Zakeyo"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Zambezi Sawmills"
+  },
+  {
+    "SN": null,
+    "Cities": "Livingstone",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Zecco"
+  },
+  {
+    "SN": 63,
+    "Cities": "Luampa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 64,
+    "Cities": "Luangwa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 65,
+    "Cities": "Luano",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 66,
+    "Cities": "Luanshya",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 67,
+    "Cities": "Lufwanyama",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 68,
+    "Cities": "Lukulu",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 69,
+    "Cities": "Lundazi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 70,
+    "Cities": "Lunga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 71,
+    "Cities": "Lunte",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 72,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Avondale"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Bauleni"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Balastone"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "CBD"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Cathedral Hill"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chalala"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Chaisa"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chamba Valley"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Chingwere"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chawama"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chainda"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chelstone"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Chibolya"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chilanga"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chilenje"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Chilenje South"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Chilulu"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chinika"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Chunga"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Churdleigh"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Emmasdale"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Foxdale"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Garden"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Handsworth Park"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Helen Kaunda"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ibex Hill"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ibex Meanwood"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Jesmondine"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "John Lang"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Kabangwe"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kabulonga "
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kabwata "
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kalingalinga"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kalundu"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kamanga"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Kamwala"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Kamwala South"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kaunda Square Stage 1"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kaunda Square Stage 2"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "KK International Airport"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Libala"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Lilayi"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Longacres"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Luburma"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Luneta"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Lusaka West"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Makeni Bonaventure"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Marshlands"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Maluba"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Mandevu"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Matero"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Ngombe"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ngwerere"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Mazyopa"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Meanwood Airport"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Meanwood Ibex"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Meanwood Kwamwena"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Meanwood Ndeke"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Meanwood Vorna Valley"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Mutendere"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Munali"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Kamanga"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Namununga"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "New Kasama"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Northmead"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Olympia Park"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "PHI"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Rhodes Park"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Ridgeway "
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Roma Park"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Roma"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Sunningdale"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Silverest"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Thorn Park"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Tunkuka"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Villa Elizabeth"
+  },
+  {
+    "SN": null,
+    "Cities": "Lusaka",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Woodlands"
+  },
+  {
+    "SN": 73,
+    "Cities": "Luwingu",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 74,
+    "Cities": "Mafinga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 75,
+    "Cities": "Mambwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 76,
+    "Cities": "Mansa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 77,
+    "Cities": "Manyinga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 78,
+    "Cities": "Masaiti",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 79,
+    "Cities": "Mazabuka",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 80,
+    "Cities": "Mbala",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 81,
+    "Cities": "Milengi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 82,
+    "Cities": "Mitete",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 83,
+    "Cities": "Mkushi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 84,
+    "Cities": "Mongu",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 85,
+    "Cities": "Monze",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 86,
+    "Cities": "Mpika",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 87,
+    "Cities": "Mpongwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 88,
+    "Cities": "Mporokoso",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 89,
+    "Cities": "Mpulungu",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 90,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Butondo"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Eastlea"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Fairview"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Kamuchanga"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Kwawama/Francis"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Kawama/kansuswa"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Kansuswa"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Kankoyo"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Mokambo"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Mutundu"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Mine Area"
+  },
+  {
+    "SN": null,
+    "Cities": "Mufulira",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Mupambe"
+  },
+  {
+    "SN": 91,
+    "Cities": "Mufumbwe",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Chibolya"
+  },
+  {
+    "SN": 92,
+    "Cities": "Mulobezi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 93,
+    "Cities": "Mumbwa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 94,
+    "Cities": "Mungwi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 95,
+    "Cities": "Mushindano",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 96,
+    "Cities": "Mwandi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 97,
+    "Cities": "Mwansabombwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 98,
+    "Cities": "Mwense",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 99,
+    "Cities": "Mwinilunga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 100,
+    "Cities": "Nakonde",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 101,
+    "Cities": "Nalolo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 102,
+    "Cities": "Namwala",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 103,
+    "Cities": "Nchelenge",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 104,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Bwana Mukubwa"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chifubu"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Chipulukusu"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chichele/ Kasongo"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Chinese Complex"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Dag-Hammarskjold"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Dola Hill"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Hillcrest"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Jacaranda Area"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Industrial Area"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Itawa"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Kabushi"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Kafulafuta"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "Central West",
+    "AREAS": "Kanini"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Kaniki/Sakania"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Kaloko"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Kanseshi"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Kantolomba"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Kawama"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Kavu"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Luanshya Turn-off"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Lubuto"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Mandondo"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Masala Mine"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Masala Skyways"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Masala Main"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Masangano"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Mundawanga"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Mushili Bonano"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South West",
+    "AREAS": "Mushili Old"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Mushili New"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South",
+    "AREAS": "Mushili Kansengu"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Minsundu"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North West",
+    "AREAS": "Mitengo"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "East",
+    "AREAS": "Ndeke"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "New Airport"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Nkwazi "
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "Central North",
+    "AREAS": "Northrise"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Pamodzi"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North",
+    "AREAS": "Pamodzi Overspill"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "North East",
+    "AREAS": "Sakanya Border"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "South East",
+    "AREAS": "Targagun"
+  },
+  {
+    "SN": null,
+    "Cities": "Ndola",
+    "ZONE ORIENTATION": "West",
+    "AREAS": "Twapia"
+  },
+  {
+    "SN": 105,
+    "Cities": "Ngabwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 106,
+    "Cities": "Nkeyema",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 107,
+    "Cities": "Nsama",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 108,
+    "Cities": "Nyimba",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 109,
+    "Cities": "Pemba",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 110,
+    "Cities": "Petauke",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 111,
+    "Cities": "Rufunsa",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 112,
+    "Cities": "Samfya",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 113,
+    "Cities": "Senanga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 114,
+    "Cities": "Senga Hill",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 115,
+    "Cities": "Serenje",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 116,
+    "Cities": "Sesheke",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 117,
+    "Cities": "Shang'ombo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 118,
+    "Cities": "Shibuyunji",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 119,
+    "Cities": "Shiwang'andu",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 120,
+    "Cities": "Siavonga",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 121,
+    "Cities": "Sikongo",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 122,
+    "Cities": "Sinazongwe",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 123,
+    "Cities": "Sinda",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 124,
+    "Cities": "Sioma",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 125,
+    "Cities": "Solwezi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 126,
+    "Cities": "Vubwi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 127,
+    "Cities": "Zambezi",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  },
+  {
+    "SN": 128,
+    "Cities": "Zimba",
+    "ZONE ORIENTATION": "Central",
+    "AREAS": "Central Business District"
+  }
+ ]

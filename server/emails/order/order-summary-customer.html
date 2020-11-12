@@ -1,0 +1,78 @@
+{% extends '../layouts/invoice.html' %}
+
+{% block content %}
+<p>Hello {{customer.name}}</p>
+<p>You have a right to demand for a receipt or invoice from the seller.</p>
+<p>Please present this order and sub-order number(s) at respective Collection counter(s) of Shop Online Zambia registered seller.</p>
+<p>Your invoice <a href="{{orderLink}}"><strong>#{{order.trackingCode}}</strong></a> details</p>
+<p>
+  <img src="{{qrSummary}}" style="display: block; margin: 0 auto" />
+</p>
+
+<div class="text-left">
+  <h3>Customer information</h3>
+  <p><strong>First name: </strong> {{order.firstName}}</p>
+  <p><strong>Last name: </strong> {{order.lastName}}</p>
+  <p><strong>Email: </strong> {{order.email}}</p>
+  <p><strong>Phone number: </strong> {{order.phoneNumber}}</p>
+  <p><strong>Street address: </strong> {{order.streetAddress}}</p>
+  <p><strong>Area: </strong> {{order.state}}</p>
+  <p><strong>City: </strong> {{order.city}}</p>
+  <p><strong>Country: </strong> {{order.country}}</p>
+  <p><strong>Google Pin: </strong> {{order.zipCode}}</p>
+  <!-- <p><strong>Shipping address: </strong> {{order.shippingAddress}}</p> -->
+</div>
+
+
+<div style="margin-top: 40px">
+  <table class="table table-custom" style="border: 1px solid #ccc; border-radius: 5px; text-align: center;">
+    <thead>
+      <tr class="bg-blue" style="background: #3f9bfb; color: #fff; font-size: 15px; white-space: nowrap; font-weight: 600;">
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Sub order ID</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">QR Code</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Product</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Quantity</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Shop</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Total</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Status</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Note</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Pick Up Address</td>
+        <td style=" padding: .75rem; vertical-align: top; border-top: 1px solid #dee2e6;">Pick Up By</td>
+      </tr>
+    </thead>
+   <tbody>
+      {% for subOrder in orderDetails %}
+      <tr>
+        <td class="text-left">#{{subOrder.trackingCode}}</td>
+        <td><img src="{{subOrder.qrLinkShop}}" width="100px" style="display: block; margin: 0 auto;"></td>
+        <td style="text-align: left">{{subOrder.productDetails.name}}</td>
+        <td>{{subOrder.quantity|number}}</td>
+        <td style="text-align: left">{{subOrder.shopDetail.name}}</td>
+        <td>{{subOrder.userCurrency}} {{subOrder.userTotalPrice|money}}</td>
+        <td>{{subOrder.status}}</td>
+        <td style="text-align: left">{{subOrder.userNote}}</td>
+        <td style="text-align: left">{{subOrder.pickUpAddress}}</td>
+        <td style="text-align: left">
+          <strong>{{subOrder.userPickUpInfo.pickUpBy}}</strong><br>
+        {% if subOrder.userPickUpInfo.pickUpBy == 'others' %}
+          {% if subOrder.userPickUpInfo.pickUpBy == 'others' && subOrder.userPickUpInfo.name %}
+          Name: {{subOrder.userPickUpInfo.name}}<br>
+          {% endif %}
+          {% if subOrder.userPickUpInfo.pickUpBy == 'others' && subOrder.userPickUpInfo.idNumber %}
+          ID: {{subOrder.userPickUpInfo.idNumber}}<br>
+          {% endif %}
+          {% if subOrder.userPickUpInfo.pickUpBy == 'others' && subOrder.userPickUpInfo.phoneNumber %}
+          Phone: {{subOrder.userPickUpInfo.phoneNumber}}
+          {% endif %}
+        {% endif %}
+        </td>
+        {% if subOrder.deliveryCompanyId && subOrder.deliveryCompanyInfo %}
+        <td style="text-align: left"><strong>Delivery company</strong> {{subOrder.deliveryCompanyInfo.name}}</td>
+        {% endif %}
+        <tr>
+      {% endfor %}
+   </tbody>
+  </table>
+</div>
+
+{% endblock %}
